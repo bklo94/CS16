@@ -1,0 +1,21 @@
+#include <iostream> 
+using namespace std; 
+
+int main () {
+double e =1;
+double (int n);
+{
+int product = 1;
+while (n> 0)
+{
+product = n * product;
+n--;
+}
+cout.setf(ios::fixed);
+cout.setf(ios::showpoint);
+cout.precision(8);
+cout << 1/product << endl;
+}
+return 0
+}
+
